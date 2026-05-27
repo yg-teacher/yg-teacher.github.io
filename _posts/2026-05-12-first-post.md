@@ -8,7 +8,7 @@ tags: [Partition, Disk, DualBoot]
 ---
 
 ## 🔍 [운영체제]
-Windows 11
+Windows 11 pro
 <img width="1251" height="322" alt="image" src="https://github.com/user-attachments/assets/0976b43c-2b25-40ef-9057-e2634ded0db8" />
 
 
