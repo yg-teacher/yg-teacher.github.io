@@ -15,8 +15,7 @@ Windows 환경에서 약 1TB 용량 디스크를 7:3 비율로 분할하여
 - Windows 11 Pro
 <img width="1251" height="322" alt="image" src="https://github.com/user-attachments/assets/0976b43c-2b25-40ef-9057-e2634ded0db8" />
 
-- 로컬 디스크 용량
-
+- 로컬 디스크 용량<br>
 <img width="335" height="108" alt="image" src="https://github.com/user-attachments/assets/93ab8d68-96a6-45f5-a58e-a1cdba44f908" />
 
 ## 🛠 [파티션 분리 작업]
