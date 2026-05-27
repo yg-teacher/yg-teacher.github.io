@@ -7,8 +7,10 @@ categories:
 tags: [Partition, Disk, DualBoot]
 ---
 
-## 🔍 문제 상황
-테스트 글입니다.
+## 🔍 [운영체제]
+Windows 11
+<img width="1251" height="322" alt="image" src="https://github.com/user-attachments/assets/0976b43c-2b25-40ef-9057-e2634ded0db8" />
+
 
 ## 📄 내용
 블로그 정상 동작 확인
