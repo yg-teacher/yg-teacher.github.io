@@ -20,8 +20,7 @@ Windows 환경에서 약 1TB 용량 디스크를 7:3 비율로 분할하여
 <img width="335" height="108" alt="image" src="https://github.com/user-attachments/assets/93ab8d68-96a6-45f5-a58e-a1cdba44f908" />
 
 ## 🛠 [파티션 분리 작업]
-1. 키보드에서 Win + x 입력 후 "디스크 관리"를 선택합니다.
-
+1. 키보드에서 Win + x 입력 후 "디스크 관리"를 선택합니다.<br>
 <img width="262" height="737" alt="image" src="https://github.com/user-attachments/assets/bb813acf-0fba-43f4-adce-1cfbcad93f47" />
 2. 디스크 관리 화면에서 C: 드라이브를 선택한 후 마우스 우클릭을 하고, 볼륨 축소를 선택합니다.
 <img width="1022" height="892" alt="image" src="https://github.com/user-attachments/assets/b2d0b630-f192-4d0f-8524-00b76b1ed12f" />
