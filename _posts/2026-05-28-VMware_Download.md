@@ -1,5 +1,5 @@
 ---
-title: "VMware Download"
+title: "VMware 다운로드"
 date: 2026-05-28
 categories: 
   - Environment
