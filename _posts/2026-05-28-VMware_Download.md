@@ -4,7 +4,7 @@ date: 2026-05-28
 categories: 
   - Environment
   - Windows
-tags: [Install, Virtualization]
+tags: [Download, Virtualization]
 ---
 
 ## 🚀 [개요]
