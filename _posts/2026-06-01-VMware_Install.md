@@ -37,8 +37,8 @@ Hyper-V (가상화 담당)
  ↓
 CPU (VT-x / AMD-V)
 
-❌ 옵션 비활성화 (Hyper-V 활성화)
-VMware 요청
+❌ 옵션 비활성화 (Hyper-V 활성화) <br>
+VMware 요청 <br>
 ↓
 (직접 CPU 접근 시도 ❗)
 ↓
