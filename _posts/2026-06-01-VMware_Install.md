@@ -41,6 +41,11 @@ VMware → (가상화 접근 시도 ❗) → Hyper-V 차단
 
 <img width="496" height="395" alt="image" src="https://github.com/user-attachments/assets/315bdbd7-254e-4ae5-a666-d556c483040b" />
 
-4. ㅇㄴ
+4. "Add VMware Workstation console tools into system PATH" 옵션을 체크 상태로 유지한 후 "Next" 버튼을 클릭합니다.
+
+* 해당 옵션은 VMware 관련 명령어를 명령 프롬프트(cmd)에서 경로 없이 바로 사용할 수 있도록 도와주는 설정입니다.
+
+<img width="501" height="401" alt="image" src="https://github.com/user-attachments/assets/07fb3aff-b053-4dd4-a0f1-0f265f07859f" />
+
 5. 
    
