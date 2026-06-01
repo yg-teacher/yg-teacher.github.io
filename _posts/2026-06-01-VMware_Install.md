@@ -38,10 +38,10 @@ Hyper-V (가상화 담당)
 CPU (VT-x / AMD-V)
 
 ❌ 옵션 비활성화 (Hyper-V 활성화)
-VMware 요청 
- ↓
+VMware 요청
+↓
 (직접 CPU 접근 시도 ❗)
- ↓
+↓
 ❌ Hyper-V가 막음 (이미 점유)
 
 * WHP(Windows Hypervisor Platform)는 Hyper-V 기반 가상화 환경에서 VMware와 같은 애플리케이션이 가상화 기능을 사용할 수 있도록 지원하는 인터페이스(API)입니다. WHP를 사용하면 애플리케이션이 직접 CPU 가상화를 제어하지 않고, Hyper-V를 통해 가상화 기능을 사용하며 필요한 기능을 API 호출 방식으로 요청하게 됩니다.
