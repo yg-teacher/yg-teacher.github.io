@@ -53,5 +53,8 @@ VMware → (가상화 접근 시도 ❗) → Hyper-V 차단
    
 <img width="547" height="221" alt="image" src="https://github.com/user-attachments/assets/1e2a6c54-3c37-434a-bacc-1ab5a3a0ffb6" />
 
-5. ㅇㄴ
+5. VMware 설치 시 사용자 경험 개선을 위한 옵션을 설정하는 단계로 "Check for product updates on startup"은 VMware 실행 시 업데이트 자동 확인하는 옵션이고 "Join the VMware Customer Experience Improvement Program"은 VMware가 제품 개선을 위해 데이터를 수집을 허용하는 옵션으로서 옵션을 비활성화하여도 Vmware 동작에 지장이 없으나 옵션을 활성화 하여도 문제사항은 없으므로 "Next" 버튼을 클릭합니다.
+<img width="627" height="502" alt="image" src="https://github.com/user-attachments/assets/13a3aa6f-f5c0-4978-9213-3c56e0108a9e" />
+
 6. 
+7. 
