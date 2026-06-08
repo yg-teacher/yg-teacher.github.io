@@ -1,4 +1,3 @@
-<img width="893" height="657" alt="image" src="https://github.com/user-attachments/assets/c5eb2418-b546-4adc-8d80-d4eecfa85a59" />---
 title: "JDK 설치 및 환경변수 설정"
 date: 2026-06-08
 categories: 
