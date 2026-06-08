@@ -67,7 +67,6 @@ VMware Workstation Pro 설치를 시작하기 전 설정 내용을 최종 확인
 <img width="611" height="485" alt="image" src="https://github.com/user-attachments/assets/e2dde63b-0146-44d5-8be6-45dde58d7f3d" />
 
 ### Step 8. 설치 완료
-
 VMware Workstation Pro 설치 완료 후 "Finish" 버튼을 클릭하여 설치를 마무리합니다.
 <img width="615" height="492" alt="image" src="https://github.com/user-attachments/assets/5cc67d71-7fb2-44c1-8786-9d6aed0ed92b" />
 <img width="618" height="492" alt="image" src="https://github.com/user-attachments/assets/bef81d36-0622-42b4-a56a-b792f7a70f3c" />
