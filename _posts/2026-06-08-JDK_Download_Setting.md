@@ -1,13 +1,13 @@
-title: "JDK 설치 및 환경변수 설정"
+title: "JDK 21 설치 및 환경 변수 설정 방법"
 date: 2026-06-08
 categories: 
   - Environment
   - Windows
-tags: [Setting, JAVA]
+tags: [Java, JDK, Windows, Environment, Setup]
 ---
 
 ## 🚀 [개요]
-Windows 환경에서 개발을 위한 JDK 21 설치 및 환경변수 설정하는 방법을 정리합니다.
+Windows 환경에서 개발을 위한 JDK 21 설치 및 환경 변수 설정 방법을 정리합니다.
 
 ## 🔍 [JDK 다운로드 및 설정]
 1. OpenJDK 공식 홈페이지(https://openjdk.org)에 접속한 후 좌측 메뉴에서 "JDK" 항목을 클릭합니다.
