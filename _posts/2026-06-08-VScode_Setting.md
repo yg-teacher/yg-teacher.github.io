@@ -10,7 +10,7 @@ tags: [Setting, IDE]
 ## 🚀 [개요]
 Windows 환경에서 개발을 위한 Visual Studio Code를 설정하는 방법을 정리합니다.
 
-⚠️ [참고]
+### ⚠️ [참고]
 - Visual Studio Code 설정 이전 JDK 설치([JDK 설치 가이드](https://yg-teacher.github.io/posts/JDK_Download_Setting))를 완료 후 진행 부탁드립니다.
 
 ## 🔍 [Visual Studio Code 설정]
