@@ -42,6 +42,7 @@ Spring Initializr 실행 후 아래 정보를 순서대로 입력합니다.
 의존성 선택 화면에서 검색창에 "Spring Web"을 입력한 후 해당 항목을 선택합니다.
 선택이 완료된 상태에서 Enter 키를 입력하면 다음 단계로 진행합니다.
 > 📌 "Spring Web"은 기본적인 웹 애플리케이션 실행을 위해 반드시 선택해야 합니다.
+>
 > 📌 여러 의존성을 선택할 수 있으며, 필요한 항목을 추가로 선택할 수 있습니다.
 <img width="767" height="267" alt="image" src="https://github.com/user-attachments/assets/138af1b3-05cf-4068-881b-a8a1021f25ef" />
 <img width="773" height="501" alt="image" src="https://github.com/user-attachments/assets/510f350b-822a-451e-87d3-3e3ad548435b" />
