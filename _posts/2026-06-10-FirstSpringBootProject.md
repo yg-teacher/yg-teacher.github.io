@@ -44,7 +44,7 @@ Gradle 기반 프로젝트 생성을 위해 "Spring Initializr: Create a Gradle 
 
 ### Step 3. Spring Boot 설정 정보 입력
 Spring Initializr 실행 후 아래 정보를 순서대로 입력합니다.
-> - Spring Boot Version: 3.5.14
+- Spring Boot Version: 3.5.14
 ``
 <img width="762" height="272" alt="image" src="https://github.com/user-attachments/assets/bc31fa15-83bb-4292-88a9-cd44745b16ec" />
 
