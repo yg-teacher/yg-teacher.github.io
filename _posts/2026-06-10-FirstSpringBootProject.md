@@ -99,7 +99,7 @@ Spring Initializr 실행 후 아래 정보를 순서대로 입력합니다.
 해당 파일을 열어 상단에 표시되는 "Run" 또는 "Debug" 버튼을 클릭합니다. 또는 아래 단축키를 사용하여 실행할 수 있습니다.
 - Ctrl + F5 : 디버깅 없이 실행
 - F5 : 디버깅 모드로 실행
-<img width="1192" height="542" alt="image" src="https://github.com/user-attachments/assets/d72359d9-62aa-4bd8-8b72-c73aeaa24625" />
+<img width="1241" height="587" alt="image" src="https://github.com/user-attachments/assets/53bb5e53-23bf-4b2a-a7ed-b1f4404a3bda" />
 
 ### Step 8. 실행 결과 확인
 Spring Boot 실행 후 브라우저에서 [Localhost](http://localhost:8080) 주소로 접속합니다.
