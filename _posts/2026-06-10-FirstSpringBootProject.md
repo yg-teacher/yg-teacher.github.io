@@ -56,6 +56,7 @@ Spring Initializr 실행 후 아래 정보를 순서대로 입력합니다.
 ### Step 5. 프로젝트 생성 경로 선택
 프로젝트를 생성할 폴더를 선택한 후 "Generate into this folder" 버튼을 클릭하여 프로젝트 생성을 진행합니다.
 > 📌 선택한 폴더 내부에 Spring Boot 프로젝트가 생성됩니다.
+> 
 > 📌 새로운 폴더를 생성하여 관리하는 것을 권장합니다.
 <img width="955" height="602" alt="image" src="https://github.com/user-attachments/assets/eb072976-20af-4cb3-a8c3-2f9a32fd35ed" />
 
