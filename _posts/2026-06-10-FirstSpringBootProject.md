@@ -20,43 +20,27 @@ Windows 환경에서 Visual Studio Code를 사용하여 Spring Boot 프로젝트
 ### Step 2. Spring Initializr 선택
 "Spring Initializr"를 검색하면 다양한 프로젝트 생성 및 확장 기능을 선택할 수 있으며 각 항목의 의미는 다음과 같습니다.
 
----
-
-#### 1. Create a Maven Project
+#### 1. Spring Initializr: Create a Maven Project...
 Maven 기반의 Spring Boot 프로젝트를 생성합니다.
-
 > 📌 pom.xml 파일 기반으로 프로젝트를 관리하며,  
 > 📌 설정이 단순하고 입문자가 사용하기에 적합합니다.
 
----
-
 #### 2. Add Starters
 이미 생성된 Spring Boot 프로젝트에 의존성(Starter)을 추가하는 기능입니다.
-
 > 📌 프로젝트 생성 이후에도 DB, JPA, Security 등의 기능을 쉽게 추가할 수 있습니다.
-
----
 
 #### 3. Create a Gradle Project with Kotlin DSL
 Kotlin DSL 기반의 Gradle 프로젝트를 생성합니다.
-
 > 📌 build.gradle.kts 파일을 사용하며  
 > 📌 Kotlin 문법으로 빌드 설정을 관리합니다.  
 > 📌 고급 사용자에게 적합한 방식입니다.
 
----
-
 #### 4. Create a Gradle Project
 Gradle(Groovy DSL) 기반의 Spring Boot 프로젝트를 생성합니다.
-
 > 📌 build.gradle 파일을 사용하며  
 > 📌 Maven보다 빌드 속도가 빠르고 유연한 구성이 가능합니다.
 
----
-
-본 가이드에서는 Gradle 기반 프로젝트 생성을 위해  
-"Spring Initializr: Create a Gradle Project"를 선택합니다.
-
+Gradle 기반 프로젝트 생성을 위해 "Spring Initializr: Create a Gradle Project"를 선택합니다.
 <img width="758" height="215" alt="image" src="https://github.com/user-attachments/assets/420d2813-af7e-47df-b9e0-0cae44eb95ea" />
 
 ### Step 3. Spring Boot 설정 정보 입력
