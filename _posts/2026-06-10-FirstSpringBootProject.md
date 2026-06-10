@@ -50,13 +50,13 @@ Spring Initializr 실행 후 아래 정보를 순서대로 입력합니다.
 > - Language: Java
 > <img width="767" height="187" alt="image" src="https://github.com/user-attachments/assets/413a940c-a540-4e3d-96ec-b1c8de4e6598" />
 >
-> - Group: com.example
+> - Group(기본 패키지 경로): com.example
 > <img width="765" height="127" alt="image" src="https://github.com/user-attachments/assets/fdf1afb3-1a5b-4298-bad8-69a0472ed3c5" />
 >
-> - Artifact: demo
+> - Artifact(메인 패키지 경로): demo
 > <img width="766" height="133" alt="image" src="https://github.com/user-attachments/assets/94dbf75e-6d4f-4bd3-8d0e-5ea73d98e49a" />
 >
-> - Package Name: com.example.demo
+> - Package Name(Group+Artifact): com.example.demo
 > <img width="762" height="127" alt="image" src="https://github.com/user-attachments/assets/bfd99c12-b422-4f74-bc1c-64b6fa3a95d3" />
 >
 > - Packaging type: Jar
