@@ -25,8 +25,10 @@ Windows 환경에서 Visual Studio Code를 사용하여 Spring Boot 프로젝트
 Spring Initializr 실행 후 아래 정보를 순서대로 입력합니다.
 > - Spring Boot Version: 3.5.14
 > <img width="762" height="272" alt="image" src="https://github.com/user-attachments/assets/bc31fa15-83bb-4292-88a9-cd44745b16ec" />
+
 > - Language: Java
 > <img width="767" height="187" alt="image" src="https://github.com/user-attachments/assets/413a940c-a540-4e3d-96ec-b1c8de4e6598" />
+
 > - Group: com.example
 > <img width="765" height="127" alt="image" src="https://github.com/user-attachments/assets/fdf1afb3-1a5b-4298-bad8-69a0472ed3c5" />
 > - Artifact: demo
