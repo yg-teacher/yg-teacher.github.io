@@ -57,9 +57,19 @@ Spring Initializr 실행 후 아래 정보를 순서대로 입력합니다.
 > <img width="766" height="133" alt="image" src="https://github.com/user-attachments/assets/94dbf75e-6d4f-4bd3-8d0e-5ea73d98e49a" />
 >
 > - Package Name(Group+Artifact): com.example.demo
+> 📌 기본 패키지 경로로, Group과 Artifact를 기반으로 자동 생성됩니다.
 > <img width="762" height="127" alt="image" src="https://github.com/user-attachments/assets/bfd99c12-b422-4f74-bc1c-64b6fa3a95d3" />
 >
 > - Packaging type: Jar
+> 📌 Jsp를 사용한다면 War를 반드시 사용해야 하는 등의 규약이 있지만, 스프링 부트에서는 Jar를 권장하고 있습니다.
+>
+> 📌 War는 외장 웹서버를 별도로 사용해야 하는 반면 스프링 부트는 웹서버를 내장하여 패키징할 수 있기 때문입니다.
+>
+> 📌 Jar: 자바 아카이브(Java Archive)의 약자로, 자바로 구현된 애플리케이션이 동작하는 데 필요한 클래스 파일, 라이브러리 파일을 포함하고 있습니다.
+JRE(Java Runtime Environment)만 있어도 실행 가능합니다. 확장자는 .jar입니다.
+>
+> 📌 War: 웹 아카이브(Web Archive)의 약자로, 웹 애플리케이션을 실행하는 데 필요한 리소스들의 압축 파일을 말합니다. jar파일의 일종으로, 자바 애플리케이션 중에서
+웹 애플리케이션을 패키징하기 위한 파일입니다. 클래스 파일을 비롯해 JSP,서블릿(Servlet)등과 같이 웹 관련 파일등을 모두 포함할 수 있습니다. 
 > <img width="767" height="160" alt="image" src="https://github.com/user-attachments/assets/6e47a720-8a97-4415-8dda-33f26578454e" />
 >
 > - Java Version: 21
