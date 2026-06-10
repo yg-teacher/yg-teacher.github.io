@@ -25,17 +25,16 @@ Maven 기반의 Spring Boot 프로젝트를 생성합니다.
 > 📌 pom.xml 파일 기반으로 프로젝트를 관리하며,  
 > 📌 설정이 단순하고 입문자가 사용하기에 적합합니다.
 
-#### 2. Add Starters
+#### 2. Spring Initializr: Add Starters...
 이미 생성된 Spring Boot 프로젝트에 의존성(Starter)을 추가하는 기능입니다.
 > 📌 프로젝트 생성 이후에도 DB, JPA, Security 등의 기능을 쉽게 추가할 수 있습니다.
 
-#### 3. Create a Gradle Project with Kotlin DSL
+#### 3. Spring Initializr: Create a Gradle Project with Kotlin DSL...
 Kotlin DSL 기반의 Gradle 프로젝트를 생성합니다.
 > 📌 build.gradle.kts 파일을 사용하며  
-> 📌 Kotlin 문법으로 빌드 설정을 관리합니다.  
-> 📌 고급 사용자에게 적합한 방식입니다.
+> 📌 Kotlin 문법으로 빌드 설정을 관리합니다. 
 
-#### 4. Create a Gradle Project
+#### 4. Spring Initializr: Create a Gradle Project...
 Gradle(Groovy DSL) 기반의 Spring Boot 프로젝트를 생성합니다.
 > 📌 build.gradle 파일을 사용하며  
 > 📌 Maven보다 빌드 속도가 빠르고 유연한 구성이 가능합니다.
