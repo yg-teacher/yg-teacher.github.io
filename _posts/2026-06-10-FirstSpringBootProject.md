@@ -21,12 +21,12 @@ Windows 환경에서 Visual Studio Code를 사용하여 Spring Boot 프로젝트
 "Spring Initializr"를 검색하면 다양한 프로젝트 생성 및 확장 기능을 선택할 수 있으며 각 항목의 의미는 다음과 같습니다.
 
 #### 1. Spring Initializr: Create a Maven Project...
-Maven 기반의 Spring Boot 프로젝트를 생성합니다.
+> - Maven 기반의 Spring Boot 프로젝트를 생성합니다.
 > 📌 pom.xml 파일 기반으로 프로젝트를 관리하며,  
 > 📌 설정이 단순하고 입문자가 사용하기에 적합합니다.
 
 #### 2. Spring Initializr: Add Starters...
-이미 생성된 Spring Boot 프로젝트에 의존성(Starter)을 추가하는 기능입니다.
+> - 이미 생성된 Spring Boot 프로젝트에 의존성(Starter)을 추가하는 기능입니다.
 > 📌 프로젝트 생성 이후에도 DB, JPA, Security 등의 기능을 쉽게 추가할 수 있습니다.
 
 #### 3. Spring Initializr: Create a Gradle Project with Kotlin DSL...
