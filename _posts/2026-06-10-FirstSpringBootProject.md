@@ -96,8 +96,7 @@ Spring Initializr 실행 후 아래 정보를 순서대로 입력합니다.
 
 "src/main/java/.../DemoApplication.java"
 
-해당 파일을 열어 상단에 표시되는 "Run" 또는 "Debug" 버튼을 클릭합니다.
-또는 아래 단축키를 사용하여 실행할 수 있습니다.
+해당 파일을 열어 상단에 표시되는 "Run" 또는 "Debug" 버튼을 클릭합니다. 또는 아래 단축키를 사용하여 실행할 수 있습니다.
 - Ctrl + F5 : 디버깅 없이 실행
 - F5 : 디버깅 모드로 실행
 <img width="1192" height="542" alt="image" src="https://github.com/user-attachments/assets/d72359d9-62aa-4bd8-8b72-c73aeaa24625" />
