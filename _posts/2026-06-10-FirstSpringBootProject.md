@@ -114,6 +114,7 @@ JRE(Java Runtime Environment)만 있어도 실행 가능합니다. 확장자는 
 ### Step 8. 실행 결과 확인
 Spring Boot 실행 후 브라우저에서 [Localhost](http://localhost:8080) 주소로 접속합니다.
 > 📌 Whitelabel Error Page가 표시되더라도 정상적으로 서버가 실행된 상태입니다.
+> 
 > 📌 아직 '/' 경로에 매핑된 컨트롤러가 없기 때문에 표시되는 것으로, 서버 자체는 정상 동작 중입니다.
 <img width="715" height="220" alt="image" src="https://github.com/user-attachments/assets/283374f0-069e-4705-bfb1-726ecdca197f" />
 
