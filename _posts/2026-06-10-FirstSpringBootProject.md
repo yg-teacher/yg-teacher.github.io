@@ -40,6 +40,7 @@ Gradle(Groovy DSL) 기반의 Spring Boot 프로젝트를 생성합니다.
 > 📌 Maven보다 빌드 속도가 빠르고 유연한 구성이 가능합니다.
 
 Gradle 기반 프로젝트 생성을 위해 "Spring Initializr: Create a Gradle Project"를 선택합니다.
+> 📌 Gradle을 선택한 사유로는 현업에서 가장 많이 사용되어 Gradle을 선택하였습니다
 <img width="758" height="215" alt="image" src="https://github.com/user-attachments/assets/420d2813-af7e-47df-b9e0-0cae44eb95ea" />
 
 ### Step 3. Spring Boot 설정 정보 입력
