@@ -16,8 +16,7 @@ Docker Desktop은 컨테이너 기반 개발 환경을 구성하는 도구로,
 ## 🔍 [Docker Desktop 다운로드 및 설치]
 ### Step 1. Docker Desktop 다운로드 화면으로 이동
 https://www.docker.com 에 접속 후 상단 메뉴에서 "Products" → "Application Development" → "Docker Desktop"을 선택합니다.
-<img width="1161" height="481" alt="image" src="https://github.com/user-attachments/assets/84a7d579-c0f3-431a-b0c3-d65242f49876" />
-
+<img width="1161" height="481" alt="image" src="https://github.com/user-attachments/assets/84a7d579-c0f3-431a-b0c3-d65242f49876" />  
 > 📌 아래 이미지와 같이 메뉴를 따라 이동하면 Docker Desktop 페이지로 진입할 수 있습니다.
 > 
 > ⚠ 처음 접속 시 상단 UI가 변경될 수 있으나, "Docker Desktop" 메뉴를 찾는 것이 핵심입니다.
@@ -25,8 +24,7 @@ https://www.docker.com 에 접속 후 상단 메뉴에서 "Products" → "Applic
 
 ### Step 2. 운영체제에 맞는 Docker Desktop 다운로드
 "Download Docker Desktop" 버튼에 마우스를 올리면 운영체제별 설치 파일이 표시된 목록에서  
-자신의 환경에 맞는 항목을 선택하여 다운로드를 진행합니다.
-
+자신의 환경에 맞는 항목을 선택하여 다운로드를 진행합니다.  
 > 📌 일반적인 Windows PC(인텔/AMD CPU)를 사용하는 경우 "Download for Windows - AMD64"를 선택하면 됩니다.
 > 
 > 📌 AMD64는 대부분의 PC에서 사용하는 표준 아키텍처이며, ARM64는 일부 특수 환경(예: ARM 기반 노트북)에서 사용됩니다.
