@@ -18,6 +18,7 @@ Docker Desktop은 컨테이너 기반 개발 환경을 구성하는 도구로,
 1. https://www.docker.com 에 접속합니다.
 2. 상단 메뉴에서 "Products" → "Application Development" → "Docker Desktop"을 선택합니다.
 <img width="1161" height="481" alt="image" src="https://github.com/user-attachments/assets/84a7d579-c0f3-431a-b0c3-d65242f49876" />
+
 > 📌 아래 이미지와 같이 메뉴를 따라 이동하면 Docker Desktop 페이지로 진입할 수 있습니다.
 > 
 > ⚠ 처음 접속 시 상단 UI가 변경될 수 있으나, "Docker Desktop" 메뉴를 찾는 것이 핵심입니다.
