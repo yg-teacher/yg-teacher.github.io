@@ -1,4 +1,4 @@
-<img width="1161" height="481" alt="image" src="https://github.com/user-attachments/assets/37c14cf2-a3aa-465a-ad94-30458e96d8d4" />---
+---
 title: "Docker Desktop 설치"
 date: 2026-06-16
 categories: 
