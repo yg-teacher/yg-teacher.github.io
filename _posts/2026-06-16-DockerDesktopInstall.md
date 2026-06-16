@@ -26,7 +26,9 @@ https://www.docker.com 에 접속 후 상단 메뉴에서 "Products" → "Applic
 ### Step 2. 운영체제에 맞는 Docker Desktop 다운로드
 "Download Docker Desktop" 버튼에 마우스를 올리면 운영체제별 설치 파일이 표시된 목록에서 자신의 환경에 맞는 항목을 선택하여 다운로드를 진행합니다.
 > 📌 일반적인 Windows PC(인텔/AMD CPU)를 사용하는 경우 "Download for Windows - AMD64"를 선택하면 됩니다.
+> 
 > 📌 AMD64는 대부분의 PC에서 사용하는 표준 아키텍처이며, ARM64는 일부 특수 환경(예: ARM 기반 노트북)에서 사용됩니다.
+> 
 > ⚠ ARM64를 잘못 선택할 경우 Docker Desktop이 정상 실행되지 않을 수 있으므로 주의합니다.
 <img width="1212" height="746" alt="image" src="https://github.com/user-attachments/assets/04e6b233-9e01-4a18-9ee2-7c8886e950a1" />
 
